@@ -20,5 +20,6 @@
   "homepage": "https://github.com/CypherBean/AngularCourse1#readme",
   "devDependencies": {
     "lite-server": "^2.5.4"
-  }
+  },
+  "dependencies": {}
 }
